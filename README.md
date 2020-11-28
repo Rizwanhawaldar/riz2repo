@@ -1,2 +1,2 @@
 # riz2repo
-second repo
+second repository
